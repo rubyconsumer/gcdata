@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "gcdata"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Provide easy access to Geocaching.com pocket query data.}
+    gem.description = %Q{gcdata provides easy accss to Geocaching.com pocket query data.  Gather statistics information based on one or multiple pocket queries.}
     gem.email = "rubyconsumer@rubyconsumer.com"
     gem.homepage = "http://github.com/rubyconsumer/gcdata"
     gem.authors = ["Winston Tsang"]
